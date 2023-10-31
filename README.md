@@ -1,7 +1,7 @@
 # Project_1
 
 Project 1
-Laurn Pescarus
+Lauren Pescarus
 Brian Mitchell
 Liana Hamacher
 Michael Krebs
@@ -15,7 +15,7 @@ Scope:
 The number of rentals – single family homes or apartments
 
 Selection Criteria:
-One Major City
+One Major City - New York
 
 Potential Questions to be asked:
 1.Do the number of rental listings correlate with the price of Airbnbs?
