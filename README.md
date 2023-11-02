@@ -1,12 +1,20 @@
-# Project_1
+ # Project_1
 
-Project 1
+The effect COVID has had on the rental market of New York City's five major boroughs
+_____
+### Contributors
 Lauren Pescarus
 Brian Mitchell
 Liana Hamacher
 Michael Krebs
 
-1.How has COVID affected the price and availability of rental properties?
+
+#### Questions:
+How has COVID affected the number of rental units?
+
+How has COVID affected the median price of rental units?
+
+
 
 Datasets:
 1.Zillow Observed Rent Index (ZORI)
@@ -26,12 +34,9 @@ Potential Questions to be asked:
 6.Does zoning affect rental availability
 7.Homeowners vs renters in each city?
 
-
-
 Tasks
 1.Compile Dataframes
 	-Answer questions with two visual outputs
 2.Github management
 3.Powerpoint
 4.One person per question asked
-5.
