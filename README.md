@@ -18,6 +18,8 @@ How has COVID affected the median price of rental units?
 
 Datasets:
 1.Zillow Observed Rent Index (ZORI)
+2. NYC Open Data 311 Service Requests (https://data.cityofnewyork.us/Social-Services/data-csv/hmck-ibt2/data)
+3. Mapplot boundaries found on NYC Open Data Borough Boundaries (https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)
 
 Scope:
 The number of rentals – single family homes or apartments
