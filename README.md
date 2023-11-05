@@ -24,7 +24,7 @@ Datasets:
 
 
 Scope:  
-The number of rentals – single family homes or apartments  
+Rentals include single family homes and apartments. 
 
 
 Selection Criteria:  
