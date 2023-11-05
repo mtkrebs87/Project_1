@@ -8,6 +8,8 @@ Brian Mitchell
 Liana Hamacher  
 Michael Krebs  
 
+## Slide Deck Presentation:
+https://docs.google.com/presentation/d/12mLwaeGABoN8nrjGAZKMLnTrU7KqIydxzxJR7ue4_co/edit?usp=sharing 
 
 ## Questions:
 1. Has COVID impacted the median rent values of units in the five boroughs?  
