@@ -2,14 +2,14 @@
 
 COVID19 has impacted the rental market across all boroughs in New York City.  
 _____
-### Contributors
+## Contributors
 Lauren Pescarus  
 Brian Mitchell  
 Liana Hamacher  
 Michael Krebs  
 
 
-#### Questions:
+## Questions:
 1. Has COVID impacted the median rent values of units in the five boroughs?  
 2. Has COVID impacted the number of units available to rent in the five boroughs?  
 3. Has the presence or absence of COVID affected either of these things positively or negatively?  
@@ -31,7 +31,7 @@ Selection Criteria:
 One Major City - New York  
 
 
-###Abstract  
+## Abstract  
 
 The purpose of this project is to examine the impact of COVID19 on the rental market of the five boroughs of New York City(NYC). Our findings indicate that COVID19 has impacted the median asking price of rentals in all boroughs as well as availability. Various plots and graphs were used to visualize our data with scatter plots and line graphs cheif among them. According to our data set, Manhattan has been most affected by COVID19 and Staten Island has been least affected. COVID19 has destabalized the expected median asking price of rental units in the five boroughs with asking prices exceeding what the expected trajectory predicted. We also see that the inventory of available units in the five boroughs has decreased, which is opposite of the expected trajectory.  
 This data shows a compelling story how how COVID19 has affected the real estate industry for renters in NYC. For a clearer picture of other factors that contribute to these findings we may look closer at the details of rental properties availabe. The number of bedrooms, bathrooms, square feet, and location of these properties would give us a better understanding of the expected trends moving forward.
