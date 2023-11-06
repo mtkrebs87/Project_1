@@ -14,8 +14,7 @@ https://docs.google.com/presentation/d/12mLwaeGABoN8nrjGAZKMLnTrU7KqIydxzxJR7ue4
 ## Questions:
 1. Has COVID impacted the median rent values of units in the five boroughs?  
 2. Has COVID impacted the number of units available to rent in the five boroughs?  
-3. Has the presence or absence of COVID affected either of these things positively or negatively?  
-4. Is the impact of COVID affecting boroughs differently?  
+3. Has the impact of COVID affected boroughs differently?  
 
 
 Datasets:
